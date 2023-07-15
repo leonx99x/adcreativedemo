@@ -1,0 +1,6 @@
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\Adcreativedemo.exe
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\Adcreativedemo.dll
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\Adcreativedemo.deps.json
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\Adcreativedemo.runtimeconfig.json
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\Adcreativedemo.pdb
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\publish\HtmlAgilityPack.dll

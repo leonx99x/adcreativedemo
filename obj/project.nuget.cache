@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "obP3CdBNw39RKVLrm7maBCe2MVKfKUOu68nl7SSO3/3MtZR4i0hlDoAqXZHAs2H3RSYgwH0VIc2/KKviCXsR7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonx\\source\\repos\\Adcreativedemo\\Adcreativedemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonx\\.nuget\\packages\\htmlagilitypack\\1.11.49\\htmlagilitypack.1.11.49.nupkg.sha512"
+  ],
+  "logs": []
+}

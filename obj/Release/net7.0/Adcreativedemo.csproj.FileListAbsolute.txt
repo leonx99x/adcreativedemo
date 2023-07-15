@@ -1,0 +1,17 @@
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\Adcreativedemo.exe
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\Adcreativedemo.deps.json
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\Adcreativedemo.runtimeconfig.json
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\Adcreativedemo.dll
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\Adcreativedemo.pdb
+C:\Users\leonx\source\repos\Adcreativedemo\bin\Release\net7.0\HtmlAgilityPack.dll
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.csproj.AssemblyReference.cache
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.AssemblyInfoInputs.cache
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.AssemblyInfo.cs
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.csproj.CoreCompileInputs.cache
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.csproj.CopyComplete
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.dll
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\refint\Adcreativedemo.dll
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.pdb
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\Adcreativedemo.genruntimeconfig.cache
+C:\Users\leonx\source\repos\Adcreativedemo\obj\Release\net7.0\ref\Adcreativedemo.dll
